@@ -67,8 +67,8 @@ Estou sempre buscando aprender. Meu foco atual está em:
 
 <p align="center">
   <a href="https://github.com/EidenFox">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EidenFox&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=EidenFox&show_icons=true&theme=tokyonight&count_private=true"/>
     <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidenFox&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EidenFox&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
