@@ -36,8 +36,8 @@ Sou um desenvolvedor em formação pelo Senac, atualmente **buscando oportunidad
 ### 🛠️ Tecnologias e Ferramentas
 
 Minha stack principal e ferramentas que uso no dia a dia.
-<p align="center">
-#### Linguagens
+
+#### <p align="center">Linguagens
 </p>
 <p align="center">
   <a href="https://github.com/search?q=user%3AEidenFox%20language%3Ajava&type=repositories">
