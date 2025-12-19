@@ -76,6 +76,27 @@ Minha stack principal e ferramentas que uso no dia a dia.
 
 
 ---
+### 🚀 Projetos em Destaque
+
+#### 📦 [Controle de Produtos](https://github.com/EidenFox/Controle-de-Produtos)
+* **Descrição:** Um sistema de gerenciamento de estoque desenvolvido em Java utilizando a biblioteca Swing para a interface gráfica e MySQL para persistência de dados. O projeto foi criado como parte de estudos acadêmicos sobre JDBC e interfaces gráficas.
+* **Tecnologias:** `Java`, `Swing`, `MySQL`.
+* **Destaque:** Implementação de padrões de projeto (DAO), Banco de dados e interface gráfica.
+
+---
+
+#### 📦 [Bicicreta](https://github.com/EidenFox/seu-repositorio)
+* **Descrição:** Um sistema em C++ para gerenciamento de aluguel de bicicletas, clientes e funcionários para uma empresa ficticia chamada "Bicicreta". Desenvolvido como trabalho acadêmico, focado em manipulação de arquivos, structs e lógica de negócios.
+* **Tecnologias:** `C++`, `Makefile`, `G++`.
+* **Destaque:** Foco em gerenciamento de dados, persistencia e compatibilidade (windows e linux).
+
+---
+
+#### 📦 [Animes Favoritos](https://github.com/EidenFox/WebSenacTrabalho)
+* **Descrição:** Projeto feito para um trabalho da faculdade onde aprendi HTML e CSS. o objetivo é criar uma apresentação em grade espansivel das minhas recomendações de animes e séries.
+* **Tecnologias:** `HTML5`, `CSS3`.
+* **Destaque:** Projeto Frontend com foco em estilização em CSS.
+---
 
 ### 📚 Meus Próximos Passos (Roadmap de Estudos)
 
