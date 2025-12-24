@@ -85,7 +85,7 @@ Minha stack principal e ferramentas que uso no dia a dia.
 
 ---
 
-#### 📦 [Bicicreta](https://github.com/EidenFox/seu-repositorio)
+#### 📦 [Bicicreta](https://github.com/EidenFox/Bicicreta)
 * **Descrição:** Um sistema em C++ para gerenciamento de aluguel de bicicletas, clientes e funcionários para uma empresa ficticia chamada "Bicicreta". Desenvolvido como trabalho acadêmico, focado em manipulação de arquivos, structs e lógica de negócios.
 * **Tecnologias:** `C++`, `Makefile`, `G++`.
 * **Destaque:** Foco em gerenciamento de dados, persistencia e compatibilidade (windows e linux).
