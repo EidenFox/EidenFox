@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=51A2DA&center=true&vCenter=true&width=500&lines=Hey!+My+name+is+Daniel;+Dev+Java+%7C+C%2FC%2B%2B" alt="Hey! My name is Daniel; Dev Java | C/C++" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=51A2DA&center=true&vCenter=true&width=500&lines=Hey!+I'm+Eiden;+Dev+Java+%7C+C%2FC%2B%2B" alt="Hey! I'm Eiden; Dev Java | C/C++ | SQL" />
   </a>
 </h1>
 
@@ -78,10 +78,10 @@ Minha stack principal e ferramentas que uso no dia a dia.
 ---
 ### 🚀 Projetos em Destaque
 
-#### 📦 [Controle de Produtos](https://github.com/EidenFox/Controle-de-Produtos)
-* **Descrição:** Um sistema de gerenciamento de estoque desenvolvido em Java utilizando a biblioteca Swing para a interface gráfica e MySQL para persistência de dados. O projeto foi criado como parte de estudos acadêmicos sobre JDBC e interfaces gráficas.
-* **Tecnologias:** `Java`, `Swing`, `MySQL`.
-* **Destaque:** Implementação de padrões de projeto (DAO), Banco de dados e interface gráfica.
+#### 📦 [SGC Senac - Sistema de Gestão Corporativa](https://github.com/EidenFox/SGCSenac)
+* **Descrição:** Um robusto sistema desktop para gestão interna corporativa, desenvolvido como MVP acadêmico. O projeto simula um ambiente real de negócios com controle de permissões (RBAC para Administradores e Funcionários), processamento de pedidos e auditoria de inventário diretamente no banco de dados relacional.
+* **Tecnologias:** `Java 21`, `Swing`, `MySQL`, `Maven`, `BCrypt`.
+* **Destaque:** Foco em engenharia de software e segurança: implementação do padrão DAO/MVC, criptografia de senhas, proteção contra força-bruta (Rate Limiting), uso de Triggers e Views no MySQL, e empacotamento com Maven para geração de executável universal (Fat JAR).
 
 ---
 
@@ -92,9 +92,9 @@ Minha stack principal e ferramentas que uso no dia a dia.
 
 ---
 
-#### 📦 [Animes Favoritos](https://github.com/EidenFox/WebSenacTrabalho)
+#### 📦 [Animes Favoritos](https://github.com/EidenFox/WebSenacTrabalho) (Introdução a HTML e CSS)
 * **Descrição:** Projeto feito para um trabalho da faculdade onde aprendi HTML e CSS. o objetivo é criar uma apresentação em grade espansivel das minhas recomendações de animes e séries.
-* **Tecnologias:** `HTML5`, `CSS3`.
+* **Tecnologias:** `HTML5`, `CSS3`, `JS`.
 * **Destaque:** Projeto Frontend com foco em estilização em CSS.
 ---
 
@@ -102,7 +102,7 @@ Minha stack principal e ferramentas que uso no dia a dia.
 
 Estou sempre buscando aprender. Meu foco atual está em:
 
-* 🐍 **Python:** Iniciar esturos para uso em scripting, automação e análise de dados.
+* 🐍 **Python:** Criação e uso em scripting, automação e análise de dados.
 * ☕ **Spring Framework:** Iniciar estudos no ecossistema **Spring (Spring Boot)** para me especializar em desenvolvimento back-end Java, que é uma grande demanda do mercado.
 * 🗃️ **Bancos de Dados:** Aprofundar e aprimorar conhecimentos em modelagem de dados e performance (indo além do MySQL básico).
 
